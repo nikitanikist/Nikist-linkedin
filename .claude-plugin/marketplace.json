@@ -1,0 +1,19 @@
+{
+  "name": "nikist-linkedin",
+  "owner": {
+    "name": "Amit (Nikist)",
+    "email": "nikistofficial@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-growth-engine",
+      "source": "./Nikist-linkedin-v2/linkedin-growth-engine",
+      "description": "AI-powered LinkedIn growth system. Handles ICP building, profile optimization, content creation, outreach automation, strategic engagement, and full GTM planning — all executable via Chrome automation.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Amit (Nikist)"
+      },
+      "keywords": ["linkedin", "growth", "outreach", "content", "leads", "saas", "gtm"]
+    }
+  ]
+}
