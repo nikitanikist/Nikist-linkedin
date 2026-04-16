@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-growth-engine",
+  "version": "0.1.0",
+  "description": "AI-powered LinkedIn growth system trained on insider strategies. Handles ICP building, profile optimization, content creation, outreach automation, strategic engagement, and full GTM planning — all executable via Chrome automation.",
+  "author": {
+    "name": "Amit (Nikist)"
+  },
+  "keywords": ["linkedin", "growth", "outreach", "content", "leads", "saas", "gtm"]
+}
